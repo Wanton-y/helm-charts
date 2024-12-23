@@ -1,6 +1,6 @@
 # Elastic Stack Kubernetes Helm Charts
 
-[![Quick Deploy](https://img2.baidu.com/it/u=4188371850,2362992639&fm=253&fmt=auto&app=138&f=JPEG?w=380&h=380)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/Wanton-y/helm-charts.git&branch=main)
+[![Quick Deploy On AlibabaCloud](https://camo.githubusercontent.com/2916637a3687316861413d5cc2899e07e9c038ecd71add7d9312c6a22e0fb3e7/68747470733a2f2f736572766963652d696e666f2d7075626c69632e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f636f6d707574656e6573742e737667)](https://acs.console.aliyun.com/quick-deploy?repo=Wanton-y/helm-charts&branch=main)
 
 [![Build Status](https://img.shields.io/jenkins/s/https/devops-ci.elastic.co/job/elastic+helm-charts+main.svg)](https://devops-ci.elastic.co/job/elastic+helm-charts+main/) [![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/elastic)](https://artifacthub.io/packages/search?repo=elastic)
 
